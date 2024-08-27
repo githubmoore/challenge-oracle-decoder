@@ -16,8 +16,9 @@ Este proyecto está desarrollado con:
 HTML para la estructura.
 CSS para un diseño elegante.
 JavaScript para la funcionalidad de encriptación.
+Designer de MS para el fondo.
 💡 ¿Cómo puedo usarlo?
-Usa este encriptador para darle un toque de seguridad a tus mensajes antes de compartirlos. Recuerda que es una herramienta básica y no está diseñada para proteger información sensible o comercial.
+Usa este encriptador para darle un toque de seguridad a tus mensajes antes de compartirlos. Recuerda que es una herramienta básica con fines educativos y no está diseñada para proteger información sensible o comercial.
 
 ⚠️ Problemas conocidos
 Compatibilidad limitada con navegadores antiguos.
